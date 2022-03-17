@@ -1,23 +1,18 @@
-### Hey there! 👋
+### Hey there, I'm Eduardo Villão 👋
 
-In progress...
-<!--
+#### Glad to see you here!
 
-#### Me
-Here are some ideas to get you started:
+I am a Brazilian WordPress developer. Working with programming and WordPress since 2014. Currently developing custom plugins and solutions for WordPress, and work in a [Pipefy](https://www.pipefy.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about WordPress
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+#### Some points about me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovillao&layout=compact)](https://github.com/eduardovillao/github-readme-stats)
--->
+- 🔭 I’m currently working on some new WP plugins
+- 💬 Ask me about anything, i am happy to help
+- 📫 How to reach me: [dev@eduardovilla.me](mailto:dev@eduardovillao.me) or send me a message on my [Linkedin](https://www.linkedin.com/in/eduardo-vill%C3%A3o-wordpress-developer/)
 
-#### My WordPress Plugins
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovillao&layout=compact)](https://github.com/eduardovillao/github-readme-stats)-->
+
+#### Some WordPress plugins i developed
 
 - [Extensions for Elementor Form](https://wordpress.org/plugins/extensions-for-elementor-form/)
 - [Form Masks for Elementor](https://wordpress.org/plugins/form-masks-for-elementor/)
