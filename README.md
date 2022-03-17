@@ -2,7 +2,7 @@
 
 #### Glad to see you here!
 
-I am a Brazilian WordPress developer. Working with programming and WordPress since 2014. Currently developing custom plugins and solutions for WordPress, and work in a [Pipefy](https://www.pipefy.com/).
+I am a Brazilian WordPress developer. Working with programming and WordPress since 2014. Currently develop custom plugins and solutions for WordPress, and work in a [Pipefy](https://www.pipefy.com/).
 
 #### Some points about me
 
