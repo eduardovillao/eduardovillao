@@ -2,7 +2,7 @@
 
 #### Glad to see you here!
 
-I am a Brazilian WordPress developer. Working with programming and WordPress since 2014. Currently develop custom plugins and solutions for WordPress, and work in a [Pipefy](https://www.pipefy.com/).
+I am a Brazilian full stack developer. I'm working with programming since 2014 starting with WordPress and PHP. Currently I'm working at a [Pipefy](https://www.pipefy.com/) as a Tech. Lead of Foundation Front End team. But also still working with custom plugins and solutions for WordPress in a free time.
 
 #### Some points about me
 
@@ -12,7 +12,7 @@ I am a Brazilian WordPress developer. Working with programming and WordPress sin
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovillao&layout=compact)](https://github.com/eduardovillao/github-readme-stats)-->
 
-#### Some WordPress plugins i developed
+#### Some WordPress plugins I developed
 
 - [Extensions for Elementor Form](https://wordpress.org/plugins/extensions-for-elementor-form/)
 - [Form Masks for Elementor](https://wordpress.org/plugins/form-masks-for-elementor/)
