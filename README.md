@@ -2,7 +2,7 @@
 
 #### Glad to see you here!
 
-I am a Brazilian full stack developer. I'm working with programming since 2014 starting with WordPress and PHP. Currently I'm working at a [Extendify]([https://www.pipefy.com/](https://extendify.com/)). But also still working with custom plugins and solutions for WordPress in a free time.
+I am a Brazilian full stack developer. I'm working with programming since 2014 starting with WordPress and PHP. Currently I'm working at a [Extendify](https://extendify.com/). But also still working with custom plugins and solutions for WordPress in a free time.
 
 #### Some points about me
 
